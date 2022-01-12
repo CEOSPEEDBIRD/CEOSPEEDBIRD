@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 👋 Hi, I’m @CEOSPEEDBIRD
 - 🔭 I’m currently working on SwiftUI Apps
-- 🌱 I’m currently learning the Swift Frameworks
+- 🌱 I’m currently learning the Swift Frameworks and Python
 - 💬 Ask me about SwiftUI and the Swift Language
 <!--
 **CEOSPEEDBIRD/CEOSPEEDBIRD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
