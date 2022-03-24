@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 #### My Quotes
 - "Half of the time is debugging"
-- "A software developer is nothing more than a professional google searcher and copy-and-paste expert"
+
