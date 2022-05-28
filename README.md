@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### My Quotes
+#### My favourite Quotes
 - "Half of the time is debugging"
-
+- "The POSITIVE THINKER sees the INVISIBLE, feels the INTANGIBLE, and achieves the IMPOSSIBLE."
